@@ -262,20 +262,5 @@ This project provided hands-on experience identifying and analysing common web a
 
 ---
 
-## Folder Structure
 
-```bash
-images/
-├── application-overview.png
-├── challenge-1.png
-├── challenge-4.png
-├── challenge-6.png
-├── challenge-7.png
-├── challenge-8.png
-├── challenge-9.png
-├── challenge-10.png
-├── challenge-11.png
-└── challenge-12.png
-
-README.md
 ```
